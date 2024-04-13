@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/World-tour/static/css/main.eaf6a849.css",
+    "main.js": "/World-tour/static/js/main.aa63435a.js",
+    "static/js/453.061ad532.chunk.js": "/World-tour/static/js/453.061ad532.chunk.js",
+    "static/media/booking.jpg": "/World-tour/static/media/booking.43678f07b832dd6ffafc.jpg",
+    "index.html": "/World-tour/index.html",
+    "main.eaf6a849.css.map": "/World-tour/static/css/main.eaf6a849.css.map",
+    "main.aa63435a.js.map": "/World-tour/static/js/main.aa63435a.js.map",
+    "453.061ad532.chunk.js.map": "/World-tour/static/js/453.061ad532.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaf6a849.css",
+    "static/js/main.aa63435a.js"
+  ]
+}
